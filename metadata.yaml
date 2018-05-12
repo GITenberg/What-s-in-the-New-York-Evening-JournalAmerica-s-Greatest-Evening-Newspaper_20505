@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9343'
     url: http://www.gutenberg.org/2009/agents/9343
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20505#What-s-in-the-New-York-Evening-JournalAmerica-s-Greatest-Evening-Newspaper
 gutenberg_issued: '2007-02-02'
 gutenberg_type: Text
 identifiers:
